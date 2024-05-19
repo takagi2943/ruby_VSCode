@@ -80,8 +80,8 @@
 # end 
 # puts sum 
 
-a = [1, 2, 3, 1, 2, 3]
+# a = [1, 2, 3, 1, 2, 3]
 # a.delete_if do |n|
-  a.delete(2)
+#   a.delete(2)
 # end 
-puts a
+# puts a
